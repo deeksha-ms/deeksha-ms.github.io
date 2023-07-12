@@ -20,5 +20,5 @@ News
 2.[July 2022] Attending ICML 2022 at Baltimore as Social Coordinator for WiML workshop
 3.[Dec 2021] Awarded with Best Outgoing Female student in IEEE India Council by the Hope Foundation
 4.[Nov 2021] Awarded with Institute Gold Medal from NITK Surathkal
-5.[Aug 2021] Started PhD at JHU with departmental fellowship for the first year!
+5.[Aug 2021] Started PhD at JHU with departmental fellowship for the first year
 
