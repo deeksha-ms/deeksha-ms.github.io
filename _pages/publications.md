@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 1. **DeepBreath—automated detection of respiratory pathology from lung auscultation in 572 pediatric outpatients across 5 countries**  
-Julien Heitmann, Alban Glangetas, Jonathan Doenz, Juliane Dervaux,<ins>Deeksha M. Shama</ins>, ...,Mary-Anne Hartley. 
+Julien Heitmann, Alban Glangetas, Jonathan Doenz, Juliane Dervaux, <ins>Deeksha M. Shama</ins>, ..., Mary-Anne Hartley
 NPJ digital medicine 6, no. 1 (2023): 104.
 [[link](https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-021-01467-w)]
 
 2. **Deep learning diagnostic and risk-stratification pattern detection for COVID-19 in digital lung auscultations: clinical protocol for a case–control and prospective cohort study**  
-Alban Glangetas, Mary-Anne Hartley, Aymeric Cantais, Delphine S Courvoisier, David Rivollet,<ins>Deeksha M Shama</ins>, ..., Johan N Siebert  
+Alban Glangetas, Mary-Anne Hartley, Aymeric Cantais, Delphine S Courvoisier, David Rivollet, <ins>Deeksha M Shama</ins>, ..., Johan N Siebert  
 BMC pulmonary medicine, 21(1), 1-8.
 [[link](https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-021-01467-w)]  
