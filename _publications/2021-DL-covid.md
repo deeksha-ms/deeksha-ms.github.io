@@ -12,5 +12,5 @@ This work was in collaboration with iGH-MLO at EPFL Switzerland and The Geneva U
 
 [Download paper here](https://bmcpulmmed.biomedcentral.com/counter/pdf/10.1186/s12890-021-01467-w.pdf)
 
-Recommended citation: Glangetas, A., Hartley, M. A., Cantais, A., Courvoisier, D. S., Rivollet, D., Shama, D. M., ... & Siebert, J. N. (2021). Deep learning diagnostic and risk-stratification pattern detection for COVID-19 in digital lung auscultations: clinical protocol for a case–control and prospective cohort study. BMC pulmonary medicine, 21(1), 1-8.
+
 
