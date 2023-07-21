@@ -1,12 +1,8 @@
 ---
 Layout: archive
-permalink: /
+permalink: /awards/
 title: "Awards"
-excerpt: "Awards"
 author_profile: true
-redirect_from:
-  - /awards/
-  - /awards.html
 ---
 
 Awards
