@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-1. **DeepSOZ: A Robust Deep Model for Joint Temporal and Spatial Seizure Onset Localization from Multichannel EEG Data** 
+1. **DeepSOZ: A Robust Deep Model for Joint Temporal and Spatial Seizure Onset Localization from Multichannel EEG Data** <br> 
 <ins>Deeksha M. Shama</ins>. Jiasen, Jing, Archana Venkataraman<br>
 Accepted at Medical Image Computing and Computer Assisted Intervention–MICCAI 2023
 [[link](...)] [[code](https://github.com/deeksha-ms/DeepSOZ)]
