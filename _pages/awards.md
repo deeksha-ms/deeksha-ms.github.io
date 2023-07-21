@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-Awards
-====
  
 - NIH-MICCAI STAR award for student author registration in USA (2023)
 - ECE Departmental Fellowship at Johns Hopkins University, USA (2021)
