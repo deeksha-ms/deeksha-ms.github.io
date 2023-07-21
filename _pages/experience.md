@@ -9,6 +9,7 @@ author_profile: true
 Internships
 ====
 - Data Research Analyst at The Geneva University Hospitals and Pneumoscope
+<!--
 - Summer Research Intern at iGH EPFL Switzerland
 - Summer Intern at the Spectrum Lab, Indian Institute of Science Bangalore
 
@@ -23,4 +24,4 @@ Volunteering
 - Social Event Chair for WiML at ICML 2022
 - Chairperson at IEEE Student Branch NIT Surathkal
 - Organizer at Women in Technology Summit at NITK 2018
-
+-->
