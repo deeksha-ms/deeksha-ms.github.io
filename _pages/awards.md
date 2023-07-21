@@ -1,4 +1,4 @@
-—
+---
 Layout: archive
 permalink: /
 title: "Awards"
