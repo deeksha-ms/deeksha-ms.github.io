@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 1. **DeepSOZ: A Robust Deep Model for Joint Temporal and Spatial Seizure Onset Localization from Multichannel EEG Data** 
+
 <ins>Deeksha M. Shama</ins>. Jiasen, Jing, Archana Venkataraman
+
 Accepted at Medical Image Computing and Computer Assisted Intervention–MICCAI 2023
-[[link](...)]
+[[link](...)] [[code](https://github.com/deeksha-ms/DeepSOZ)]
 
 2. **DeepBreath—automated detection of respiratory pathology from lung auscultation in 572 pediatric outpatients across 5 countries**  
 Julien Heitmann, Alban Glangetas, Jonathan Doenz, Juliane Dervaux, <ins>Deeksha M. Shama</ins>, ..., Mary-Anne Hartley
