@@ -1,22 +1,26 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 ---
 
 
-1. **DeepSOZ: A Robust Deep Model for Joint Temporal and Spatial Seizure Onset Localization from Multichannel EEG Data** 
-<ins>Deeksha M. Shama</ins>. Jiasen, Jing, Archana Venkataraman<br>
-Accepted at Medical Image Computing and Computer Assisted Intervention–MICCAI 2023
-[[link](...)] [[code](https://github.com/deeksha-ms/DeepSOZ)]
+Internships
+====
+- Data Research Analyst at The Geneva University Hospitals and Pneumoscope
+- Summer Research Intern at iGH EPFL Switzerland
+- Summer Intern at the Spectrum Lab, Indian Institute of Science Bangalore
 
-2. **DeepBreath—automated detection of respiratory pathology from lung auscultation in 572 pediatric outpatients across 5 countries**  
-Julien Heitmann, Alban Glangetas, Jonathan Doenz, Juliane Dervaux, <ins>Deeksha M. Shama</ins>, ..., Mary-Anne Hartley
-NPJ digital medicine 6, no. 1 (2023): 104.
-[[link](https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-021-01467-w)]
+Mentoring
+===
+- Teaching Assistant for Medical Image Analysis(EN.520.XXX) [Spring 2023]
+- Undergraduate mentoring - Jiasen Jing Summer-Fall 2022
+- Teaching Assistant for high school students at CFAL Mangalore 2017-2020
 
-3. **Deep learning diagnostic and risk-stratification pattern detection for COVID-19 in digital lung auscultations: clinical protocol for a case–control and prospective cohort study**  
-Alban Glangetas, Mary-Anne Hartley, Aymeric Cantais, Delphine S Courvoisier, David Rivollet, <ins>Deeksha M Shama</ins>, ..., Johan N Siebert  
-BMC pulmonary medicine, 21(1), 1-8.
-[[link](https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-021-01467-w)]  
+Volunteering
+===
+- Social Event Chair for WiML at ICML 2022
+- Chairperson at IEEE Student Branch NIT Surathkal
+- Organizer at Women in Technology Summit at NITK 2018
+
