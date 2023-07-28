@@ -31,9 +31,10 @@ Developed missingness-resilient deep model based on BERT architecurre for diagno
 <tr>
         <td valign="top"><strong><img src="/images/igh.png" width="200" height="150"></strong></td>
         <td valign="middle"> <span style= "font-size:1.5em; font-weight:bold;"> Summer Research Intern <em style="color:gray; font-size:0.75em;"> [May 2020 - Jul 2020]</em></span><br>
+<em> Machine Learning and Optimization Lab, School of Computer and Communication Sciences, EPFL Switzerland </em><br>
+
 Developed and succesfully implemented machine learning algorithms for diagnosis of respiratory diseases from lung auscultation recordings and compared with clinical features 
 	</td>
-<em> Machine Learning and Optimization Lab, School of Computer and Communication Sciences, EPFL Switzerland </em><br>
 </tr>
 </table>
 
