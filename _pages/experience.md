@@ -8,11 +8,6 @@ author_profile: true
 
 Internships
 ====
-<style>
-   table td {
-		border: none !important; 
-	    }
-<\style>
 
 <table>
     <col width="25%">
