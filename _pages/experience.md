@@ -10,15 +10,15 @@ Internships
 ====
 <style>
   table td {
-    border: none;
+    border: none !important;
   }
 </style>
 <table>
     <col width="25%">
     <col width="75%">
 <tr>
-        <td style="border: none" valign="top"><strong><img src="/images/hug.png" width="200" height="150"></strong></td>
-        <td style="border: none" valign="middle"> <span style= "font-size:1.5em; font-weight:bold;"> Data Research Analyst <em style="color:gray; font-size:0.75em;"> [Aug 2020 - Dec 2022]</em></span><br>
+        <td  valign="top"><strong><img src="/images/hug.png" width="200" height="150"></strong></td>
+        <td  valign="middle"> <span style= "font-size:1.5em; font-weight:bold;"> Data Research Analyst <em style="color:gray; font-size:0.75em;"> [Aug 2020 - Dec 2022]</em></span><br>
 <em> The Geneva Univeresity Hospitals and Pneumoscope project </em><br>
 Developed missingness-resilient deep model based on BERT architecurre for diagnosing COVID-19 from lung auscultation recordings.
 	</td>
