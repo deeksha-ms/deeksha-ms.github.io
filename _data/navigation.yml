@@ -2,18 +2,9 @@
 main:
   - title: "Research"
     url: /research/
-     
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Experience"
-    url: /hidden/
-
-  - title: "Awards"
-    url: /awards/    
-
+    
   - title: "CV"
-    url: /files/cv_deeksha.pdf    
+    url: /files/CV_dmshama_2023.pdf    
         
   - title: "Personal"
     url: /personal/
