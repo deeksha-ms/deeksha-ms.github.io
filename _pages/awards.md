@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Awards"
+tags: [deeksha, shama, research, jhu, graduate]
 permalink: /awards/
 author_profile: true
 ---

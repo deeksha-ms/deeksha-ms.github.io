@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+tags: [deeksha, shama, research, jhu, graduate]
 excerpt: "About me"
 author_profile: true
 redirect_from:
