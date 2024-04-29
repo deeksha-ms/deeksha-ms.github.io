@@ -4,9 +4,6 @@ title: "Background"
 tags: [deeksha, shama, research, jhu, graduate]
 excerpt: "Background"
 author_profile: true
-redirect_from:
-  - /background/
-  - /background.html
 ---
 
 I was introduced to the world of signal processing and machine learning in my undergrad days through courses and hobby projects on audio-based emotion classification. I was fascinated by the idea of breaking down activities and phenomena into numbers and analyzing them with numerical and model-based tools. Subsequently, the special course on Machine Learning for Medical Image Analsyis offerred by my undergrad school - NIT Karnataka, in collaboration with Baylor College of Medicine, piqued my interest. Hence, I started my PhD in Johns Hopkins University focusing my research on developing trustworthy ML models for diagnostic and therapeutic applicaitons, particularly for neurological disorders. My research broadly focuses on biomarker identification and improving human-in-loop diagnostic models for neurological disorders like Epilepsy and Autism using my expertise in deep learning, bayesian modeling, medical imaging, and signal processing. I am currently affiliated with Boston University and Johns Hopkins.
