@@ -17,7 +17,7 @@ I graduated from the Department of Electronics and Communication Engineering at 
 
 News
 ====
-- [Apr 2024] Oral presentation and poster at International AI for Epilepsy conference, Utah USA
+- [Apr 2024] Oral presentation at International AI for Epilepsy conference, Utah USA
 - [Feb 2024] Invited speaker at Boston University's Innovation Symposium
 - [Oct 2023] Presented a poster at MICCAI 2023 Vancouver Canada
 - [Sep 2023] Started as visiting researcher at Boston University
