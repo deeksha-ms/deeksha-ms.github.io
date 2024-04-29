@@ -1,7 +1,13 @@
 # main links links
 main:
+  - title: "About Me"
+    url: /background/
+
   - title: "Research"
     url: /research/
+
+  - title: "Experience"
+    url: /experience/
     
   - title: "CV"
     url: /files/CV_dmshama_2023.pdf    
