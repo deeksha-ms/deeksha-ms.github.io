@@ -16,7 +16,7 @@ Internships
 
 
 
-Mentoring
+Teaching/Mentoring
 ===
 - Research mentor [Spring 2024] <br>
 <em> Amruth Niranjan on EEG-based seizure detection using attention models </em>
