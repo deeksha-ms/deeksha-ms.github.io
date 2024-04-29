@@ -1,8 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "Background"
-tags: [deeksha, shama, research, jhu, graduate]
-excerpt: "Background"
+permalink: /background/
 author_profile: true
 ---
 
