@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Welcome"
+    url: /about/
+  
   - title: "Background"
     url: /background/
 
