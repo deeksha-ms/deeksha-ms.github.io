@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 tags: [deeksha, shama, research, jhu, graduate]
-excerpt: "About me"
+excerpt: "Welcomei"
 author_profile: true
 redirect_from:
   - /about/
@@ -17,9 +17,9 @@ I graduated from the Department of Electronics and Communication Engineering at 
 
 News
 ====
+- [Apr 2024] Oral presentation and poster at International AI for Epilepsy conference, Utah USA
+- [Feb 2024] Invited speaker at Boston University's Innovation Symposium
+- [Oct 2023] Presented a poster at MICCAI 2023 Vancouver Canada
+- [Sep 2023] Started as visiting researcher at Boston University
 - [Jul 2023] Awarded with NIH-MICCAI STAR award
-- [May 2023] Early acceptance to MICCAI 2023 main conference (top 14%)
-- [Dec 2021] Awarded with Best Outgoing Female student in IEEE India Council
-- [Nov 2021] Awarded with Institute Gold Medal from NITK Surathkal
-- [Aug 2021] Started PhD at JHU with departmental fellowship for the first year
 

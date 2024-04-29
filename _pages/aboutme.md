@@ -5,8 +5,8 @@ tags: [deeksha, shama, research, jhu, graduate]
 excerpt: "About me"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /aboutme/
+  - /aboutme.html
 ---
 
 I am a PhD student in the Department of Electrical and Computer Engineering at [Johns Hopkins University](https://engineering.jhu.edu/ece/) and a visting researcher at [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/). I am advised by [Dr. Archana Venkataraman](https://www.bu.edu/eng/profile/archana-venkataraman-ph-d/). My research interests lie in the intersection of Probabilistic Machine learning, Deep Learning, Signal Processing, and Medical Imaging. It involves high-dimesnional signal analysis with applications to diagnosis and biomarker identification for neurodegenerative diseases. 
@@ -15,11 +15,5 @@ Previously, I worked as a Data Research Analsyst at [intelligent Global Health](
 
 I graduated from the Department of Electronics and Communication Engineering at [National Institute of Technology Karnataka, Surathkal](https://www.nitk.ac.in/) in 2021. During my undergrad, I actively participated in academic research as well as in extracurricular activites through [IEEE NITK student branch](https://ieee.nitk.ac.in/), dance club, and volunteering services in local high schools.
 
-News
-====
-- [Jul 2023] Awarded with NIH-MICCAI STAR award
-- [May 2023] Early acceptance to MICCAI 2023 main conference (top 14%)
-- [Dec 2021] Awarded with Best Outgoing Female student in IEEE India Council
-- [Nov 2021] Awarded with Institute Gold Medal from NITK Surathkal
-- [Aug 2021] Started PhD at JHU with departmental fellowship for the first year
+
 
