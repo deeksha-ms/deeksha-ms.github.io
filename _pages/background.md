@@ -1,19 +1,16 @@
 ---
 permalink: /
-title: "About me"
+title: "Background"
 tags: [deeksha, shama, research, jhu, graduate]
-excerpt: "About me"
+excerpt: "Background"
 author_profile: true
 redirect_from:
   - /background/
   - /background.html
 ---
 
-I am a PhD student in the Department of Electrical and Computer Engineering at [Johns Hopkins University](https://engineering.jhu.edu/ece/) and a visting researcher at [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/). I am advised by [Dr. Archana Venkataraman](https://www.bu.edu/eng/profile/archana-venkataraman-ph-d/). My research interests lie in the intersection of Probabilistic Machine learning, Deep Learning, Signal Processing, and Medical Imaging. It involves high-dimesnional signal analysis with applications to diagnosis and biomarker identification for neurodegenerative diseases. 
+I was introduced to the world of signal processing and machine learning in my undergrad days through courses and hobby projects on audio-based emotion classification. I was fascinated by the idea of breaking down activities and phenomena into numbers and analyzing them with numerical and model-based tools. Subsequently, the special course on Machine Learning for Medical Image Analsyis offerred by my undergrad school - NIT Karnataka, in collaboration with Baylor College of Medicine, piqued my interest. Hence, I started my PhD in Johns Hopkins University focusing my research on developing trustworthy ML models for diagnostic and therapeutic applicaitons, particularly for neurological disorders. My research broadly focuses on biomarker identification and improving human-in-loop diagnostic models for neurological disorders like Epilepsy and Autism using my expertise in deep learning, bayesian modeling, medical imaging, and signal processing. I am currently affiliated with Boston University and Johns Hopkins.
 
-Previously, I worked as a Data Research Analsyst at [intelligent Global Health](https://www.epfl.ch/labs/mlo/igh-intelligent-global-health/) group of Machine Learning and Optimization lab at EPFL, Switzerland headed by [Dr. Martin Jaggi](https://people.epfl.ch/martin.jaggi). I also worked closely with [Dr. Mary-Anne Hartley](https://www.yale-light.org/) and [Dr. Tatjana Chavdarova](https://chavdarova.github.io/). Here, I contributed to the development of interpretable deep models for diagnosing respiratory ailments, particularly COVID-19, through recorded lung auscultation signals. This work was in collaboration with the Geneva University Hospitals and [Pneumoscope](https://onescope.ch/). 
+In particular, I aim to develop interpretable AI models of clinical utility while dealing with the challenges of small dataset and noisy labels. I have developed a transformer-based architecture for joint spatial and temporal localization of seizure onset zone in epileptic patients using scalp EEG (MICCAI'23). I am currently extending this work to incorporate bayesian training in the presence of incorrect/noisy labels. Additionally, I am working in collaboration with University of Virgina on developing multi-modal data analysis for Austism Spectrum Disorder. 
 
-I graduated from the Department of Electronics and Communication Engineering at [National Institute of Technology Karnataka, Surathkal](https://www.nitk.ac.in/) in 2021. During my undergrad, I actively participated in academic research as well as in extracurricular activites through [IEEE NITK student branch](https://ieee.nitk.ac.in/), dance club, and volunteering services in local high schools.
-
-
-
+Being an extrovert, most of my ideas are inspired by my conversation with experts and fellow researchers in the field. It is satisfying to help build technology that is of clinical importance. I like to be creative in my ideas without breaking the barriers of simplicity and utility. 
