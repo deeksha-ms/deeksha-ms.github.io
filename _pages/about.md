@@ -2,7 +2,7 @@
 permalink: /
 title: "Welcome!"
 tags: [deeksha, shama, research, jhu, graduate]
-excerpt: "Welcomei"
+excerpt: "Welcome"
 author_profile: true
 redirect_from:
   - /about/

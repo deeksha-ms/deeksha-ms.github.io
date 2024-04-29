@@ -5,8 +5,8 @@ tags: [deeksha, shama, research, jhu, graduate]
 excerpt: "About me"
 author_profile: true
 redirect_from:
-  - /aboutme/
-  - /aboutme.html
+  - /background/
+  - /background.html
 ---
 
 I am a PhD student in the Department of Electrical and Computer Engineering at [Johns Hopkins University](https://engineering.jhu.edu/ece/) and a visting researcher at [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/). I am advised by [Dr. Archana Venkataraman](https://www.bu.edu/eng/profile/archana-venkataraman-ph-d/). My research interests lie in the intersection of Probabilistic Machine learning, Deep Learning, Signal Processing, and Medical Imaging. It involves high-dimesnional signal analysis with applications to diagnosis and biomarker identification for neurodegenerative diseases. 
