@@ -1,16 +1,4 @@
 # main links links
 main:
-  - title: "Overview"
-    url: /background/
-
-  - title: "Research"
-    url: /research/
-
-  - title: "Experience"
-    url: /experience/
-    
   - title: "CV"
-    url: /files/CV.pdf    
-        
-  - title: "Personal"
-    url: /personal/
+    url: /files/CV.pdf
