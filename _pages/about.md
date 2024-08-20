@@ -15,7 +15,7 @@ I am a strong proponent of all-rounded growth, holistic life, and mental health 
 
 News
 ====
-- [Aug 2024] Michelle, my mentee, presents her poster at RISE symposium, Boston University
+- [Aug 2024] Michelle, my mentee, presented her poster at RISE symposium, BU
 - [Jun 2024] Paper accepted at UNSURE@MICCAI 2024, Marrakesh, Morocco
 - [Apr 2024] Oral presentation at International AI for Epilepsy conference, Utah USA
 - [Feb 2024] Invited speaker at Boston University's Innovation Symposium
