@@ -45,7 +45,7 @@ author_profile: true
 
 </div>
 
-# Mentored projects
+## Mentored projects
 <div style="display: flex; flex-direction: column; gap: 20px;">
 	<!-- Project 4 -->
 	<div style="display: flex; align-items: center;">
@@ -59,7 +59,7 @@ author_profile: true
 	</div>
 </div>
 
-# Other projects
+## Other projects
 <div style="display: flex; flex-direction: column; gap: 20px;">
 	<!-- Project 6 (No Icon) -->
 	<div style="display: flex; align-items: center;">
@@ -82,7 +82,7 @@ author_profile: true
 <!-- Project 8 (No Icon) -->
         <div style="display: flex; align-items: center;">
         <div>
-            <h3 Multi-Atlas Brain Segmentation And Age Prediction</h3>
+            <h3 style="margin: 0;">Multi-Atlas Brain Segmentation And Age Prediction</h3>
 	    <p style="margin: 0;">Developed 3D CNN model for brain age prediction after preprocessing 3D MR images for Medical Image Analysis course JHU'22</p>
 	    <a href="https://drive.google.com/file/d/1HgqMpQ4_KaoCnQx46hs0RZtyBv1dB0Jw/view?usp=sharing" target="_blank">Link</a>
         </div>
