@@ -52,7 +52,7 @@ author_profile: true
         <img src="../files/autism.png" alt="Project 3 Icon" style="width: 60px; height: 60px; margin-right: 20px;">
             <div>
 	    <h3 style="margin: 0;">Interpretable and Lightweight Machine Learning Approach for Autism Classification Using Biomarkers Derived from Multi-trial Resting EEG</h3>
-	    <p Presented by Michelle, intern in our lab, at BU's RISE symposium. Short article coming soon. </p>
+	    <p Presented by Michelle, intern in our lab, at BU's RISE symposium. Short article coming soon</p>
  	    <a href="" target="_blank">Github</a> |
 	    <a href="" target="_blank">Paper</a>   
 	    </div>
