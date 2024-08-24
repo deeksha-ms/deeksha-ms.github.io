@@ -75,7 +75,7 @@ author_profile: true
         <div>
             <h3 style="margin: 0;">Neural style conversion with Generative models</h3>
             <p style="margin: 0;">Developed cycle-GAN and diffusion models for synthetic art generation. Group project for deep learning course JHU'22</p>
-            <a href="" target="_blank">Link</a>
+            <a href="https://drive.google.com/file/d/1lNOuwv0pF20Orxw5M8MeiU5-QuuXLVjL/view?usp=sharing" target="_blank">Link</a>
         </div>
     </div>
 
