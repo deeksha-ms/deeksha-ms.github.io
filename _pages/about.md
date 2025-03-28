@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome!"
-tags: [deeksha, shama, research, jhu, graduate]
 excerpt: "Welcome"
 author_profile: true
 redirect_from:
@@ -15,10 +14,9 @@ I am a strong proponent of all-rounded growth, holistic life, and mental health 
 
 News
 ====
-- [Aug 2024] Michelle, my mentee, presented her poster at RISE symposium, BU
-- [Jun 2024] Paper accepted at UNSURE@MICCAI 2024, Marrakesh, Morocco
-- [Apr 2024] Oral presentation at International AI for Epilepsy conference, Utah USA
-- [Feb 2024] Invited speaker at Boston University's Innovation Symposium
-- [Oct 2023] Presented a poster at MICCAI 2023 Vancouver Canada
-- [Sep 2023] Started as visiting researcher at Boston University
+- [Apr 2025] Attending INSAR Annual meeting at Seattle to present Michelle's work
+- [Mar 2025] Presenting DeepSOZ-HEM with Amruth at International AI for Epilepsy conference at Colorado USA
+- [Jan 2025] Submitted thesis proposal and passed graduate board orals!
+- [Oct 2024] Attending MICCAI at Marrakesh, Morocco
+- [Sep 2024] Presenting poster at BU's Population Health Data Science Symposium
 
