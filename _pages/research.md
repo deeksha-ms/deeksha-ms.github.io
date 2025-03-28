@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 <div style="display: flex; flex-direction: column; gap: 20px;">
     
     <!-- Project 1 -->
@@ -16,7 +15,7 @@ author_profile: true
             <h3 style="margin: 0;">Uncertainty-Aware Bayesian Deep Learning with Noisy Training Labels for Epileptic Seizure Detection</h3>
             <p style="margin: 0;">Novel strategy to handle label noise with the target application of tackling inter-rater variability in seizure detection. Accepted at UNSURE@MICCAI'24. Long article coming soon.</p>
             <a href="https://github.com/deeksha-ms/BUNDL" target="_blank">GitHub</a> | 
-            <a href="" target="_blank">Paper</a>
+            <a href="https://openreview.net/forum?id=xWbV6wZjro" target="_blank">Paper</a>
         </div>
     </div>
 
@@ -47,12 +46,23 @@ author_profile: true
 
 ## Mentored projects
 <div style="display: flex; flex-direction: column; gap: 20px;">
+        <!-- Project 4 -->
+        <div style="display: flex; align-items: center;">
+        <img src="../files/deepsoz.png" alt="Project 3 Icon" style="width: 60px; height: 60px; margin-right: 20px;">
+            <div>
+            <h3 style="margin: 0;">DeepSOZ-HEM at Seizure Detection Challenge </h3>
+            <p style="margin: 0;"> Presented by Amruth, an undergraduate researcher in our lab, at the International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders (2025). </p> 
+	    <a href="" target="https://epilepsybenchmarks.com/challenge/">Leaderboard</a> 
+            </div>
+        </div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 20px;">
 	<!-- Project 4 -->
 	<div style="display: flex; align-items: center;">
         <img src="../files/autism.png" alt="Project 3 Icon" style="width: 60px; height: 60px; margin-right: 20px;">
             <div>
 	    <h3 style="margin: 0;">Interpretable and Lightweight Machine Learning Approach for Autism Classification Using Biomarkers Derived from Multi-trial Resting EEG</h3>
-	    <p style="margin: 0;"> Presented by Michelle, intern in our lab, at BU's RISE symposium. Short article coming soon.</p>
+	    <p style="margin: 0;"> Presented by Michelle, an intern in our lab, at BU's RISE symposium. Short article coming soon.</p>
  	    <a href="" target="_blank">Github</a> |
 	    <a href="" target="_blank">Paper</a>   
 	    </div>
