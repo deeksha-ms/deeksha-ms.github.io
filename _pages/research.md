@@ -7,7 +7,17 @@ author_profile: true
 
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
-    
+       <!-- Project 1 -->
+    <div style="display: flex; align-items: center;">
+        <img src="../files/szxai.png" alt="Project 1 Icon" style="width: 60px; height: 60px; margin-right: 20px;">
+        <div>
+            <h3 style="margin: 0;">LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection</h3>
+            <p style="margin: 0;">A novel plug-in framework to enhance the reasoning abilities of AI models for EEG-based seizure detection using cross-modality similarity layers to align the EEG encodings with textual concept embeddings derived from clinical notes using LLMs. Accepted at MICCAI'25 main conference.</p>
+            <a href="https://github.com/deeksha-ms/SzXAI" target="_blank">GitHub</a> |
+            <a href="" target="_blank">Coming Soon!</a>
+        </div>
+    </div>
+ 
     <!-- Project 1 -->
     <div style="display: flex; align-items: center;">
         <img src="../files/bundl.png" alt="Project 1 Icon" style="width: 60px; height: 60px; margin-right: 20px;">
