@@ -12,9 +12,9 @@ author_profile: true
         <img src="../files/szxai.png" alt="Project 1 Icon" style="width: 60px; height: 60px; margin-right: 20px;">
         <div>
             <h3 style="margin: 0;">LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection</h3>
-            <p style="margin: 0;">A novel plug-in framework to enhance the reasoning abilities of AI models for EEG-based seizure detection using cross-modality similarity layers to align the EEG encodings with textual concept embeddings derived from clinical notes using LLMs. Accepted at MICCAI'25 main conference.</p>
+            <p style="margin: 0;">A novel plug-in framework to enhance the reasoning abilities of AI models for EEG-based seizure detection using cross-modality similarity layers to align the EEG encodings with textual concept embeddings derived from clinical notes using LLMs. Presented at MICCAI'25 main conference.</p>
             <a href="https://github.com/deeksha-ms/SzXAI" target="_blank">GitHub</a> |
-            <a href="" target="_blank">Coming Soon!</a>
+            <a href="https://papers.miccai.org/miccai-2025/paper/4626_paper.pdf" target="_blank">Paper</a>
         </div>
     </div>
  
@@ -62,7 +62,7 @@ author_profile: true
             <div>
             <h3 style="margin: 0;">DeepSOZ-HEM at Seizure Detection Challenge </h3>
             <p style="margin: 0;"> Presented by Amruth, an undergraduate researcher in our lab, at the International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders (2025). </p> 
-	    <a href="" target="https://epilepsybenchmarks.com/benchmark/">SzCORE Benchmark</a> 
+	    <a href="https://epilepsybenchmarks.com/benchmark/" target="_blank">SzCORE Benchmark</a> 
             </div>
         </div>
 </div>
@@ -73,8 +73,8 @@ author_profile: true
             <div>
 	    <h3 style="margin: 0;">Interpretable and Lightweight Machine Learning Approach for Autism Classification Using Biomarkers Derived from Multi-trial Resting EEG</h3>
 	    <p style="margin: 0;"> Presented by Michelle, an intern in our lab, at BU's RISE symposium. Short article coming soon.</p>
- 	    <a href="" target="https://github.com/deeksha-ms/ITV_in_autism">Github</a> |
-	    <a href="" target="https://link.springer.com/article/10.1007/s10803-025-07125-y">Paper</a>   
+ 	    <a href="https://github.com/deeksha-ms/ITV_in_autism" target="_blank">Github</a> |
+	    <a href="https://link.springer.com/article/10.1007/s10803-025-07125-y" target="_blank">Paper</a>   
 	    </div>
 	</div>
 </div>

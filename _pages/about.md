@@ -14,10 +14,8 @@ I am a strong proponent of all-rounded growth, holistic life, and mental health 
 
 News
 ====
+- [Nov 2025] Paper accepted at the Journal of Autism and Developmental Disorders
 - [Jul 2025] Started as the Public Outreach and Membership Officer at Women in MICCAI
-- [Jun 2025] SzXAI paper accepted at MICCAI'25 main conference
 - [May 2025] Started internship at Microsoft Research on brain-computer-interfaces
-- [Apr 2025] Attended INSAR Annual meeting at Seattle to present Michelle's work
-- [Mar 2025] Presented DeepSOZ-HEM with Amruth at International AI for Epilepsy conference at Colorado USA
 - [Jan 2025] Submitted thesis proposal and passed graduate board orals!
 
