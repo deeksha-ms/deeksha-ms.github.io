@@ -62,7 +62,7 @@ author_profile: true
             <div>
             <h3 style="margin: 0;">DeepSOZ-HEM at Seizure Detection Challenge </h3>
             <p style="margin: 0;"> Presented by Amruth, an undergraduate researcher in our lab, at the International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders (2025). </p> 
-	    <a href="" target="https://epilepsybenchmarks.com/challenge/">Leaderboard</a> 
+	    <a href="" target="https://epilepsybenchmarks.com/benchmark/">SzCORE Benchmark</a> 
             </div>
         </div>
 </div>
@@ -73,8 +73,8 @@ author_profile: true
             <div>
 	    <h3 style="margin: 0;">Interpretable and Lightweight Machine Learning Approach for Autism Classification Using Biomarkers Derived from Multi-trial Resting EEG</h3>
 	    <p style="margin: 0;"> Presented by Michelle, an intern in our lab, at BU's RISE symposium. Short article coming soon.</p>
- 	    <a href="" target="_blank">Github</a> |
-	    <a href="" target="_blank">Paper</a>   
+ 	    <a href="" target="https://github.com/deeksha-ms/ITV_in_autism">Github</a> |
+	    <a href="" target="https://link.springer.com/article/10.1007/s10803-025-07125-y">Paper</a>   
 	    </div>
 	</div>
 </div>
