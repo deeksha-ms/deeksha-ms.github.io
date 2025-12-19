@@ -10,7 +10,9 @@ redirect_from:
 
 I am a PhD student in the Department of Electrical and Computer Engineering at Johns Hopkins University and a visting researcher at Boston University. I am advised by <a href="https://www.bu.edu/eng/profile/archana-venkataraman-ph-d/" target="_blank">Prof.Archana Venkataraman</a>. My research interests lie in the intersection of Probabilistic Machine learning, Deep Learning, Signal Processing, and Medical Imaging. It involves high-dimesnional signal analysis with applications to diagnosis and therapeutics for neurological disorders. In particular, I aim to develop interpretable AI models of clinical utility while dealing with the challenges of small dataset and noisy EEG data from Epilepsy and Autism population.
 
-I am a strong proponent of all-rounded growth, holistic life, and mental health management. Outside of research, I like to volunteer in community while maintaining and growing healthy connections. I enjoy hiking, dancing, cooking, painting, and sketching. I am an extroverted person and always cherish stimulating conversations. Feel free to reach out!  
+My <a href="https://deeksha-ms.github.io/files/resume_deeksha_dec25.pdf" target="_blank">Resume<\a> can be found here. Full list of my publications is available in my <a href="https://scholar.google.com/citations?user=kBmeezUAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+
+I am a strong proponent of all-rounded growth, holistic life, and mental health management. Outside of research, I like to volunteer in community while maintaining and growing healthy connections. I enjoy hiking, dancing, cooking, painting, traveling. I cherish stimulating conversations and would love to cherish stimulating conversations and would love to hear from you!
 
 News
 ====
