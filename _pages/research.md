@@ -71,8 +71,8 @@ author_profile: true
 	<div style="display: flex; align-items: center;">
         <img src="../files/autism.png" alt="Project 3 Icon" style="width: 60px; height: 60px; margin-right: 20px;">
             <div>
-	    <h3 style="margin: 0;">Interpretable and Lightweight Machine Learning Approach for Autism Classification Using Biomarkers Derived from Multi-trial Resting EEG</h3>
-	    <p style="margin: 0;"> Presented by Michelle, an intern in our lab, at BU's RISE symposium. Short article coming soon.</p>
+	    <h3 style="margin: 0;">Harnessing Trial-to-Trial Variability of EEG Spectral Characteristics to Understand Autism</h3>
+	    <p style="margin: 0;"> Michelle Su BU RISE Intern'24. Work presented at INSAR'25 and published at the Journal of Autism and Developmental Disorders</p>
  	    <a href="https://github.com/deeksha-ms/ITV_in_autism" target="_blank">Github</a> |
 	    <a href="https://link.springer.com/article/10.1007/s10803-025-07125-y" target="_blank">Paper</a>   
 	    </div>
